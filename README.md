@@ -5,9 +5,9 @@
 
 <br><br>
 
+Open Source & K8s is ❤️<br>
+I focus on extending k8s with custom controllers⚙️, crds, csi, cni, device plugins, load balancer, webhooks...so on.<br>
+My day to day activity involves developing platform toolings/products around Kubernetes.
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthyadav3105&show_icons=true&locale=en" alt="parthyadav3105" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthyadav3105&" alt="parthyadav3105" /></p>
-
-
-
+I love extending k8s!
